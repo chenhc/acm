@@ -33,3 +33,6 @@ obj/*
 *depend
 *.layout
 *.cbp
+
+#test data
+*.txt
